@@ -6,7 +6,7 @@
 ### 安装与运行
 
 ```
-需要你安装mongodb数据库（win7可以参考[这里](http://note.youdao.com/noteshare?id=b66e3179dd5d3bb570b43617cd386cd0&sub=726B357F459E48769A6BF862625F83FE) "参考"）
+需要你安装mongodb数据库（win7可以参考 ![这里](http://note.youdao.com/noteshare?id=b66e3179dd5d3bb570b43617cd386cd0&sub=726B357F459E48769A6BF862625F83FE) "参考"）
 
 git clone https://github.com/dingyanhe/nodeVideo.git
 
