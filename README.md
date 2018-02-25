@@ -19,7 +19,7 @@ npm start //服务端运行 访问 http://localhost:3000
 
 ## 项目截图
 
---- 首页
+=== 首页
 ![image](https://github.com/dingyanhe/nodeVideo/blob/master/样例图片/首页.png)
 
 
