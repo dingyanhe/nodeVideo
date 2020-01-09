@@ -1,5 +1,7 @@
 # nodeVideo
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/dingyanhe/nodeVideo.svg)](https://greenkeeper.io/)
+
 > 使用node + jade + mongodb搭建的电影网站
 
 
